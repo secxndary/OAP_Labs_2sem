@@ -1,0 +1,5 @@
+2 Zubrenok Minsk otdih 
+5 Solnishko Gomel health
+3 Rosinka Grodno health
+6 Yablochko Vitebsk otdih
+4 Ptichka Brest sport
